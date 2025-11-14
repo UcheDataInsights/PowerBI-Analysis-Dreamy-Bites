@@ -65,6 +65,8 @@ Dreamy Bites sought a data-driven approach to address the following strategic pr
 
 [Product Dashboard](https://github.com/UcheDataInsights/PowerBI-Analysis-Dreamy-Bites/blob/main/Dreamy%20Bites%20%20Product%208_18_25.png?raw=true)
 
+
+### 🔗 [View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMWI0YjAxZTEtOWVlYi00MTM1LTkwYzktNGVmNGIwMjQ4YWIyIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 ---
 
 ## 🚀 Outcome
